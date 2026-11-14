@@ -12,7 +12,7 @@ This program intentionally has only **two touch/click controls:**
 
 ## Status and compatibility
 
-- **Clean standalone TEST build:** v0.3.16 CLEAN TEST.
+- **Clean standalone TEST build:** v1.0.0.
 - The preceding *commented-out* QUICK LEGS-only version has been successfully
   flight-tested in **X-Plane 11 with the Zibo 737-800**, including page changes.
 - This cleaned version retains the active rendering and control logic, but
